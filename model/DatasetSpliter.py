@@ -1,12 +1,3 @@
-# Split the folder with both annotations and images into training, validation and testing set by 80%, 10%, 10% respectively
-# the folder has files with the following structure:
-# 2018_SJER_3_252000_4106000_image_234_jpg.rf.eee7315b4c455ac6d42c8c3ebaa18486.jpg and 2018_SJER_3_252000_4106000_image_234_jpg.rf.eee7315b4c455ac6d42c8c3ebaa18486.xml
-# remark them as image_list and xml_list respectively
-# image and xml with the same name are the same image
-# Given the path of the folder is '/Users/danpengair/TreeCrownDetection/static/NeonTree900'
-# save the training, validation and testing set into three folders: '/Users/danpengair/TreeCrownDetection/static/NeonTree900/train', '/Users/danpengair/TreeCrownDetection/static/NeonTree900/valid', '/Users/danpengair/TreeCrownDetection/static/NeonTree900/test'
-# the training, validation and testing set should have the same structure as the original folder
-
 
 import os
 import shutil
