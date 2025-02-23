@@ -1,7 +1,13 @@
 <p align="center">
     <img src="https://github.com/user-attachments/assets/8a0e4dcc-9ae6-4d02-8fd3-46dc3dd5ccbe" alt="Tree segmentation model performance" width="800">
 </p>
-<p align="center"><b>Fig:</b> Models performance on segmenting unrecognizable tree crowns in dense forest</p>
+<p align="center"><b>Fig1:</b> Models performance on segmenting tree crowns in dense forest</p>
+
+<p align="center">
+<img width="800" alt="sparse" src="https://github.com/user-attachments/assets/e6d20a5c-3693-4814-b27e-4b2c445f5fdc" />
+</p>
+<p align="center"><b>Fig2:</b> Models performance on segmenting tree crowns in sparse forest</p>
+
 
 # TreeCrownDetection
 
